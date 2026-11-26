@@ -87,9 +87,7 @@ Global-Superstore-Analysis/
 ├── superstore.ipynb                   # Python (pandas) data cleaning and analysis notebook
 ├── superstore.twbx                    # Tableau packaged workbook (worksheets + dashboards)
 ├── Overview.png                       # Dashboard 1: sales, profit, discounts, map, categories
-├── Deep Dive.png                      # Dashboard 2: countries, customers, shipping
-├── Global Superstore Sales & Profit Analysis Proje...   # Project report
-├── Global Superstore is growing but profit leaks ar...  # Presentation 
+├── Deep Dive.png                      # Dashboard 2: countries, customers, shipping 
 ```
 
 ## ▶️ How to Run
