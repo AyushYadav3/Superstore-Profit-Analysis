@@ -1,4 +1,4 @@
-# Global Superstore Sales & Profit Analysis
+# Global Superstore Sales & Profit Analysis 
 
 An end-to-end data analysis project that explores the sales and profit performance of Global Superstore, using **Python (pandas)** for data cleaning and **Tableau Public** for interactive dashboards.
 
